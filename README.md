@@ -52,9 +52,6 @@ Example prompts:
 - "Commit my changes with the message 'Initial commit'"
 - "Push my changes to the remote repository"
 
-GitPush will generate the appropriate Git command and run it for you.
-
-
 GitPush will generate and execute the corresponding Git command.
 
 2. **Exit the tool:**
@@ -66,7 +63,7 @@ To exit the GitPush CLI tool, simply type `exit` and press **Enter**.
 
 Here’s how a typical session would look:
 
-1. **Install GitPush**: `pip install git-push-cli==0.1.0`
+1. **Install GitPush**: `pip install git-push-cli==0.1.1`
 
 
 2. **Run GitPush CLI**: `gitpush`
