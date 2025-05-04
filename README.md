@@ -15,7 +15,7 @@ GitPush is a command-line tool that allows you to execute Git commands by provid
    To install GitPush, simply run the following command:
 
    ```bash
-   pip install git-push-cli==0.1.0
+   pip install git-push-cli
    ```
 
 2. **Verify the installation:**
