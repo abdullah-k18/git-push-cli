@@ -1,6 +1,5 @@
 echo ".idea/
 .pypirc
-gitpush/main.py
 __pycache__/
 *.egg-info/
 dist/
