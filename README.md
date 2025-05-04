@@ -75,7 +75,7 @@ Here’s how a typical session would look:
 3. **Enter your Groq API key**: `gsk_**********************************`
 
 
-4. **Generate Git command by entering a prompt**: `initialize git`
+4. **Generate and let the agent execute Git command by entering a prompt**: `initialize git`
 
 
 5. **Exit the tool**: `exit`
